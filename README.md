@@ -11,10 +11,6 @@ GoogleのVision.apiを使い下記のような画像の情報を表示します�
 Python 3.9.6  
 Google Cloud Platform  
 Vision API  
- 
-# こだわり
-・ただ情報が羅列するだけでなく整形して表示しました。
-
 
 # 作成者
 yuki.Echigawa
